@@ -1,3 +1,5 @@
+#define Hola Este es un ejemplo para RTC
+
 void setup() {
   // put your setup code here, to run once:
 
